@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ME
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zongyanglaobiao)](https://github.com/zongyanglaobiao/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zongyanglaobiao&show_icons=true&theme=radical)](https://github.com/zongyanglaobiao/github-readme-stats)
