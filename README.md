@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div style="display: flex;justify-content: space-between">
+  <p>该成为什么样的人?</p>
+  <a href="https://github.com/zongyanglaobiao/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zongyanglaobiao&layout=compact" alt="img">
+  </a>
+</div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zongyanglaobiao&show_icons=true&theme=tokyonight)](https://github.com/zongyanglaobiao/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zongyanglaobiao&layout=compact)](https://github.com/zongyanglaobiao/github-readme-stats)
+
