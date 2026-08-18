@@ -38,7 +38,7 @@ Java / Spring Boot 后端工程师，同时深度实践 **AI Agent 驱动的全�
 
 ### Tech Stack
 
-<p> <img src="https://skillicons.dev/icons?i=java,spring,react,vue,js,ts,python,mysql,redis,docker,linux,git,nginx" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,python,mysql,redis,docker,linux,git" /> </p>
 
 <br/>
 
