@@ -48,7 +48,7 @@ Java / Spring Boot 后端工程师，同时深度实践 **AI Agent 驱动的全�
 |------|----------|
 | [**AI Agent 驱动全栈开发的实践与反思**](https://zongyanglaobiao.github.io/blog/article/work-with-agent/) | 以 Spring Boot + Vue 项目为例，系统复盘 PRD 精简、约束设计、最小可验证任务拆分、接口验证与常见踩坑 |
 
-更多内容 → [zongyanglaobiao.github.io/blog](https://zongyanglaobiao.github.io/blog/)
+[更多内容 👉](https://zongyanglaobiao.github.io/blog/) 
 
 <br/>
 
