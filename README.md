@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-```js
+
 const zongyanglaobiao = {
   name: "james aks",
   location: "Suzhou 🇨🇳",
