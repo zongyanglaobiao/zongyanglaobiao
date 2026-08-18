@@ -56,14 +56,9 @@ Java / Spring Boot 后端工程师，同时深度实践 **AI Agent 驱动的全�
 
 | 项目 | 说明 |
 |------|------|
-| [**springboot-scaffold**](https://github.com/zongyanglaobiao/springboot-scaffold) | 单体 Spring Boot 脚手架，快速搭建包含日志、配置、数据库等通用基础能力的项目骨架 |
-| [**SmartContarct**](https://github.com/zongyanglaobiao/SmartContarct) | 从零开始学习智能合约 |
-| [**react-scaffold**](https://github.com/zongyanglaobiao/react-scaffold) | React 脚手架 |
-| [**blog**](https://github.com/zongyanglaobiao/blog) | 基于 Hugo 的个人技术博客（J.A） |
+| [**weekly**](https://weekly-ruddy.vercel.app) | 科技爱好者周刊 |
 
 <br/>
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=80&section=footer" width="100%"/>
