@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-
+```js
 const zongyanglaobiao = {
   name: "james aks",
   location: "Suzhou 🇨🇳",
@@ -33,3 +33,4 @@ const zongyanglaobiao = {
   blog: "https://zongyanglaobiao.github.io/blog",
   motto: "Freedom World 🌍"
 };
+```
