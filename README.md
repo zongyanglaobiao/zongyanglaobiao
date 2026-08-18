@@ -64,3 +64,11 @@ Java / Spring Boot 后端工程师，同时深度实践 **AI Agent 驱动的全�
 <br/>
 
 
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=80&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <sub>Keep building. Keep thinking. Freedom World.</sub>
+</div>
