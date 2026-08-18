@@ -63,38 +63,4 @@ Java / Spring Boot 后端工程师，同时深度实践 **AI Agent 驱动的全�
 
 <br/>
 
-### GitHub Stats
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=zongyanglaobiao&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=94A3B8&icon_color=0EA5E9&text_color=CBD5E1&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zongyanglaobiao&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1&langs_count=6" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zongyanglaobiao&theme=dark&hide_border=true&background=0D1117&stroke=1E293B&ring=0EA5E9&fire=0EA5E9&currStreakLabel=94A3B8" />
-</div>
-
-<br/>
-
-### Connect
-
-<p align="center">
-  <a href="https://zongyanglaobiao.github.io/blog/">
-    <img src="https://img.shields.io/badge/Blog-J.A-0EA5E9?style=for-the-badge&logo=read.cv&logoColor=white" />
-  </a>
-  <a href="https://github.com/zongyanglaobiao">
-    <img src="https://img.shields.io/badge/GitHub-zongyanglaobiao-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=80&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <sub>Keep building. Keep thinking. Freedom World.</sub>
-</div>
