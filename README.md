@@ -1,95 +1,80 @@
-<h1 align="center">Hi 👋 I'm Zongyang</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer · Full Stack Developer · AI Explorer
-</h3>
+# ZONGYANGLAOBIAO
 
-<p align="center">
-Building software, exploring AI, and thinking about systems.
-</p>
+### Java • AI • Software Engineering
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Building+Systems.;Exploring+AI.;Writing+Code.;Thinking+Deeply." />
+
+</div>
 
 ---
 
-```java
-public class Developer {
+### About Me
 
-    private final String name = "Zongyang";
-
-    private final String[] languages = {
-        "Java", "Python", "JavaScript", "TypeScript"
-    };
-
-    private final String[] focus = {
-        "Spring Boot",
-        "AI Agent",
-        "Software Architecture",
-        "RAG",
-        "Full Stack Development"
-    };
-
-    private final String philosophy =
-            "Build. Think. Record.";
-}
+```text
+Backend Developer
+AI Explorer
+Software Architect Enthusiast
+Full Stack Builder
+Knowledge Collector
 ```
 
 ---
 
-## ⚡ Tech Stack
+### Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,vue,mysql,redis,docker,linux,git,nginx,mongodb" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,vue,js,ts,python,mysql,redis,docker,linux,git,nginx" />
 </p>
 
 ---
 
-## 🚀 Current Focus
+### Current Focus
 
-* AI Agent Engineering
-* RAG & Knowledge Systems
-* Java / Spring Boot
-* Full Stack Development
-* Software Architecture
-* Developer Productivity
-
----
-
-## 📚 Blog
-
-📝 https://zongyanglaobiao.github.io/blog/
-
-> For life, simplify.
->
-> For thought, amplify.
-
----
-
-## 📊 GitHub Stats
-
-```markdown
-https://github-readme-stats.vercel.app/api?username=zongyanglaobiao&show_icons=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=zongyanglaobiao&layout=compact
-
-https://github-readme-streak-stats.herokuapp.com/?user=zongyanglaobiao
+```text
+→ AI Agent
+→ RAG
+→ Code Intelligence
+→ Software Architecture
+→ Full Stack Development
+→ Engineering Efficiency
 ```
 
 ---
 
-## 🐍 Contribution Snake
-
-```yaml
-name: Generate Snake
-uses: Platane/snk
-```
-
----
-
-## 💡 Interests
-
-AI · Architecture · Systems · Open Source · Engineering
-
----
+### GitHub Stats
 
 <p align="center">
-Keep Building ⚡
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zongyanglaobiao&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zongyanglaobiao&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+### Projects
+
+```text
+Blog
+Knowledge Base
+AI Experiments
+Engineering Notes
+Open Source Exploration
+```
+
+---
+
+### Blog
+
+🌐 https://zongyanglaobiao.github.io/blog/
+
+---
+
+<div align="center">
+
+"Code less. Think more."
+
+</div>
